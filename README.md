@@ -46,7 +46,8 @@
 * 9、互动线索：私信、评论自动同步、回复功能；
 * 10、子账号管理：管理员可添加子账号分配角色权限；
 * 11、财务管理：商户自主续费、充值；
-<img width="1264" height="761" alt="image" src="https://github.com/user-attachments/assets/716a9c06-1b4e-47a0-adc9-b77b5f32c69c" />
+<img width="1264" height="761" alt="image" src="https://github.com/user-attachments/assets/12a570e7-983c-4b94-a508-5577e779ed59" />
+
 
 ## 作者联系方式 || 寻求帮助 || 源码合作
 联系作者前可先注册本项目官方系统查看产品功能，注册邀请码：JXNE3nNj，访问：http://sj.jsagent.net
