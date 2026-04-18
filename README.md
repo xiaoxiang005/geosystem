@@ -34,7 +34,7 @@
 - 自动化框架 playwright
 
 ## 项目支持的功能
-GEO模块：
+一、GEO模块：
 * 1、Ai诊断品牌（企业）在大模型的收录报告生成；
 * 2、GEO AI内容生成（底层接入Deepseek+Chatgpt）；
 * 3、GEO文章多平台发布，支持定时发布；
@@ -45,7 +45,9 @@ GEO模块：
 <img width="1880" height="938" alt="数据3" src="https://github.com/user-attachments/assets/9281f609-d300-42d4-bf87-f05a94912565" />
 <img width="1920" height="929" alt="ScreenShot_2026-03-08_130759_266" src="https://github.com/user-attachments/assets/2c034034-f364-44b1-9ee0-fc1f4e11ea88" />
 
-新媒体SEO矩阵：
+
+
+二、新媒体SEO矩阵：
 * 1、SaaS平台：多商户管理，商户充值续费；
 * 2、多平台：抖音、快手、视频号、小红书、百家号、头条、网易号、知乎、搜狐、CSDN平台多账号授权管理自动发布，及每个账号支持独立代理IP隔离；
 * 3、智能混剪：自有视频组合算法，短视频批量化混剪，分钟级1000条不重复视频；
